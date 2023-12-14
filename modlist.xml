@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="09.11.2023">
+<mods name="10.11.2023">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Cs For Barotrauma" id="2795927223" />
   <Workshop name="Modding Toolkit" id="2905375979" />
   <Workshop name="Lua Linker" id="2852315967" />
   <Workshop name="Multiplayer crew manager" id="2775613786" />
-  <Workshop name="Loyal Cabinets" id="3055111290" />
   <Local name="Hazardous Junction Boxes" />
   <Workshop name="Immersive Diving Gear" id="3074045632" />
   <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
@@ -15,6 +14,7 @@
   <Workshop name="EA remove mask patch" id="3045702264" />
   <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
   <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
+  <Workshop name="Deconstructable ID Card for Neurotrauma" id="3074458432" />
   <Workshop name="Neurotrauma" id="2776270649" />
   <Workshop name="NT Symbiote + Improved Husks Patch-pre" id="3071669724" />
   <Workshop name="NT Symbiote" id="3068776800" />
@@ -45,7 +45,7 @@
   <Workshop name="Immersive Diving Gear - Real Sonar Compatibility Patch" id="3074073458" />
   <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
   <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
-  <Workshop name="BaroCraftables+" id="2764140582" />
+  <Local name="BaroCraftables+" />
   <Workshop name="EK | Utility (Simple Tools Only)" id="2947134148" />
   <Workshop name="Genes+ Revived and Expanded" id="2799033770" />
   <Workshop name="Meaningful Upgrades (Fork)" id="2945425748" />
