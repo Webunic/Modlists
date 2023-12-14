@@ -1,26 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="29.10.23 LEGASY">
+<mods name="31.10.2023">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Cs For Barotrauma" id="2795927223" />
   <Workshop name="Modding Toolkit" id="2905375979" />
   <Workshop name="Lua Linker" id="2852315967" />
+  <Workshop name="Multiplayer crew manager" id="2775613786" />
   <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
+  <Workshop name="Improved Husks" id="2085783214" />
   <Workshop name="DynamicEuropa" id="2532991202" />
   <Workshop name="Neurotrauma" id="2776270649" />
+  <Workshop name="The Diver Job" id="2920304251" />
+  <Workshop name="Acolyte Job" id="2870519815" />
+  <Workshop name="All The Talent Trees + Unlock Parallel Talents" id="2913302583" />
   <Workshop name="Let Them All In" id="2805065898" />
   <Workshop name="NT Waterproof Cybernetics Edit" id="2924058266" />
   <Workshop name="Husk Mod Missions" id="2902332109" />
   <Workshop name="Enhanced Armaments" id="2764968387" />
   <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
-  <Workshop name="More Unique Weapons (v1.1) [EN/RU]" id="2900879567" />
+  <Workshop name="More Unique Weapons (v1.1) [ENRU]" id="2900879567" />
   <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
-  <Workshop name="Настоящий сонар" id="2936760984" />
+  <Workshop name="Real Sonar" id="2936760984" />
   <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
   <Workshop name="EuropaWar" id="2902324647" />
   <Workshop name="EuropaWar_Vanilla" id="2903812829" />
   <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
-  <Workshop name="All The Talent Trees + Unlock Parallel Talents" id="2913302583" />
   <Workshop name="BaroCraftables+" id="2764140582" />
   <Workshop name="EK | Utility (Simple Tools Only)" id="2947134148" />
   <Workshop name="Genes+ Revived and Expanded" id="2799033770" />
@@ -30,18 +34,18 @@
   <Workshop name="Beacons Extended" id="2389600483" />
   <Workshop name="More Beacons for Europa" id="2936649429" />
   <Workshop name="SIN Beacon Stations" id="2605405713" />
-  <Workshop name="Ammo extended 2 (RUS/ENG/汉语)" id="2668119156" />
+  <Workshop name="Ammo extended 2 (RUSENG汉语)" id="2668119156" />
   <Workshop name="Movable and Sellable Wrecks" id="2772926011" />
   <Workshop name="Sellable Pirates" id="2810462005" />
   <Workshop name="Shipwrecks Extended" id="2095211492" />
   <Workshop name="More Wrecks for Europa" id="2936642208" />
-  <Workshop name="Real Sonar - All Diving Suits + Less VFX" id="2941383415" />
+  <Workshop name="Real Sonar - Soundproofing Gel" id="2941383415" />
   <Workshop name="Item IO Framework" id="2950383008" />
   <Workshop name="Junction Box Extended" id="2955235860" />
   <Workshop name="Sprinkler System" id="2953688517" />
   <Workshop name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" id="2799051561" />
   <Workshop name="Better Exosuit with Platform 外骨骼优化和置物架" id="2920285952" />
-  <Workshop name="More Level Content - 1.0 Update" id="2814493175" />
+  <Workshop name="More Level Content" id="2814493175" />
   <Workshop name="Neurotrauma in-game guide" id="2958760493" />
   <Workshop name="Mystery's Powercore" id="2961464857" />
   <Workshop name="Neko's Extra Components" id="2958067099" />
