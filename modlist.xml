@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="RV.9 test branch">
+<mods name="RV.10 test">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Cs For Barotrauma" id="2795927223" />
@@ -10,6 +10,7 @@
   <Workshop name="Neurotrauma" id="2776270649" />
   <Workshop name="Let Them All In" id="2805065898" />
   <Workshop name="NT Waterproof Cybernetics Edit" id="2924058266" />
+  <Workshop name="Improved Husks" id="2085783214" />
   <Workshop name="Husk Mod Missions" id="2902332109" />
   <Workshop name="WITHERING SOULS VIII (Functional Necrosis)" id="2251179004" />
   <Workshop name="Enhanced Armaments" id="2764968387" />
