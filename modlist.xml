@@ -1,24 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="03.12.2023">
+<mods name="04.12.2023">
   <Vanilla />
-  <Local name="Lua For Barotrauma" />
-  <Local name="Modding Toolkit" />
-  <Local name="Lua Linker" />
-  <Local name="Multiplayer crew manager" />
-  <Local name="Immersive Diving Gear" />
-  <Local name="BaroTraumatic Lite-ish" />
-  <Local name="Enhanced Armaments DynamicEuropa Patch" />
-  <Local name="DynamicEuropa - Default Level Size Patch" />
-  <Local name="DynamicEuropa" />
-  <Local name="EA remove mask patch" />
-  <Local name="Enhanced Armaments Neurotrauma Patch" />
-  <Local name="Real Sonar Medical Item Recipes Patch for Neurotrauma" />
-  <Local name="Deconstructable ID Card for Neurotrauma" />
-  <Local name="NT Symbiote + Improved Husks Patch-pre" />
-  <Local name="NT Symbiote" />
+  <Workshop name="Lua For Barotrauma" id="2559634234" />
+  <Workshop name="Modding Toolkit" id="2905375979" />
+  <Workshop name="Lua Linker" id="2852315967" />
+  <Workshop name="Multiplayer crew manager" id="2775613786" />
+  <Workshop name="Hazardous Junction Boxes" id="3090918505" />
+  <Workshop name="Immersive Diving Gear" id="3074045632" />
+  <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
+  <Workshop name="SOFA'S CREATURES" id="2834851130" />
+  <Workshop name="NEEDS" id="2929084649" />
+  <Workshop name="Hungry Europans - Enforced Extras" id="3029684523" />
+  <Workshop name="Hungry Europans - Enforced" id="3018201543" />
+  <Workshop name="Hungry Europans" id="2954998725" />
+  <Workshop name="Enhanced Armaments DynamicEuropa Patch" id="3036805935" />
+  <Workshop name="DynamicEuropa - Default Level Size Patch" id="2927140188" />
+  <Workshop name="DynamicEuropa" id="2532991202" />
+  <Workshop name="EA remove mask patch" id="3045702264" />
+  <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
+  <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
+  <Workshop name="Deconstructable ID Card for Neurotrauma" id="3074458432" />
+  <Workshop name="NT Symbiote + Improved Husks Patch-pre" id="3071669724" />
+  <Workshop name="NT Symbiote" id="3068776800" />
   <Local name="Improved Husks" />
+  <Workshop name="NeuroEyes [fix]" id="2809712173" />
   <Local name="Neurotrauma" />
-  <Local name="NT Symbiote + Improved Husks Patch-post" />
+  <Workshop name="NT Symbiote + Improved Husks Patch-post" id="3071670133" />
   <Local name="Uni_All The Talent Trees + Unlock Parallel Talents Webuni edit" />
   <Local name="Uni_The Diver Job" />
   <Local name="Uni_Acolyte Job" />
@@ -37,18 +44,21 @@
   <Local name="Let Them All In" />
   <Local name="NT Waterproof Cybernetics Edit" />
   <Local name="Husk Mod Missions" />
-  <Local name="Enhanced Armaments" />
+  <Workshop name="Enhanced Armaments" id="2764968387" />
   <Local name="Immersive Diving Gear - Enhanced Armaments Compatibility Patch" />
   <Local name="More Unique Weapons (v1.1) [ENRU]" />
   <Local name="Real Sonar" />
   <Local name="Immersive Diving Gear - Real Sonar Compatibility Patch" />
-  <Local name="Barotraumatic Creature Pack" />
+  <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
+  <Workshop name="EuropaWar_Vanilla" id="2903812829" />
+  <Workshop name="EuropaWar" id="2902324647" />
   <Local name="Uni_BaroCraftables+" />
   <Local name="New Wrecks For Barotrauma (With sellable wrecks)" />
   <Local name="EK | Utility (Simple Tools Only)" />
   <Local name="Genes+ Revived and Expanded" />
   <Local name="Meaningful Upgrades (Fork)" />
   <Local name="Backpacks - No Encumbrance and Xeno-Backpack" />
+  <Local name="More Level Content" />
   <Local name="ADV Beacon Stations" />
   <Local name="Beacons Extended" />
   <Local name="More Beacons for Europa" />
@@ -63,7 +73,6 @@
   <Local name="Sprinkler System" />
   <Local name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" />
   <Local name="Better Exosuit with Platform 外骨骼优化和置物架" />
-  <Local name="More Level Content" />
   <Local name="Neurotrauma in-game guide" />
   <Local name="Mystery's Powercore" />
   <Local name="Neko's Extra Components" />
