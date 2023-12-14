@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="13.12.2023">
+<mods name="13.12.2023 2">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Modding Toolkit" id="2905375979" />
@@ -8,7 +8,7 @@
   <Workshop name="Lua Linker" id="2852315967" />
   <Workshop name="Multiplayer crew manager" id="2775613786" />
   <Workshop name="Hazardous Junction Boxes" id="3090918505" />
-  <Local name="Immersive Diving Gear" />
+  <Workshop name="Immersive Diving Gear" id="3074045632" />
   <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
   <Workshop name="SOFA'S CREATURES" id="2834851130" />
   <Workshop name="NEEDS - NT Compatibility" id="2930788862" />
@@ -48,7 +48,7 @@
   <Workshop name="Let Them All In" id="2805065898" />
   <Workshop name="Cybernetics Improved" id="2963474291" />
   <Workshop name="Husk Mod Missions" id="2902332109" />
-  <Local name="Enhanced Armaments" />
+  <Workshop name="Enhanced Armaments" id="2764968387" />
   <Workshop name="Immersive Diving Gear - Enhanced Armaments Compatibility Patch" id="3076164754" />
   <Workshop name="More Unique Weapons (v1.1) [ENRU]" id="2900879567" />
   <Workshop name="Real Sonar" id="2936760984" />
