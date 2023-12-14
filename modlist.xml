@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="19.11.2023 2">
+<mods name="20.11.2023">
   <Vanilla />
-  <Local name="Lua For Barotrauma" />
-  <Local name="Cs For Barotrauma" />
+  <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Local name="Modding Toolkit" />
   <Local name="Lua Linker" />
   <Local name="Multiplayer crew manager" />
@@ -66,12 +65,13 @@
   <Local name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" />
   <Local name="Better Exosuit with Platform 外骨骼优化和置物架" />
   <Local name="More Level Content" />
-  <Local name="Neurotrauma in-game guide" />
+  <Workshop name="Neurotrauma in-game guide" id="2958760493" />
   <Local name="Mystery's Powercore" />
   <Local name="Neko's Extra Components" />
   <Local name="BIG Crate" />
   <Local name="Dont Open Debug Console On Errors" />
   <Local name="Neurotrauma Tutorial map Mercy Hospital" />
+  <Local name="Cs For Barotrauma" />
   <Local name="Performance Fix" />
   <Local name="BetterFabricatorUI" />
   <Local name="Storage Icons" />
