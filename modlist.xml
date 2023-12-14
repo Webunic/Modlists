@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="05.12.2023 3">
+<mods name="07.12.2023">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Modding Toolkit" id="2905375979" />
@@ -26,7 +26,7 @@
   <Workshop name="NT Symbiote + Improved Husks Patch-pre" id="3071669724" />
   <Workshop name="NT Symbiote" id="3068776800" />
   <Workshop name="Improved Husks" id="2085783214" />
-  <Workshop name="NeuroEyes [fix]" id="2809712173" />
+  <Local name="NT NeuroEyes [fix] fork" />
   <Workshop name="Neurotrauma" id="2776270649" />
   <Workshop name="NT Symbiote + Improved Husks Patch-post" id="3071670133" />
   <Local name="Uni_All The Talent Trees + Unlock Parallel Talents Webuni edit" />
