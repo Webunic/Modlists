@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="03.11.2023">
+<mods name="04.11.2023">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Cs For Barotrauma" id="2795927223" />
@@ -10,11 +10,15 @@
   <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
   <Workshop name="Enhanced Armaments DynamicEuropa Patch" id="3036805935" />
   <Workshop name="DynamicEuropa" id="2532991202" />
+  <Workshop name="EA remove mask patch" id="3045702264" />
   <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
   <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
   <Workshop name="Neurotrauma" id="2776270649" />
+  <Workshop name="NT Symbiote + Improved Husks Patch-pre" id="3071669724" />
   <Workshop name="NT Symbiote" id="3068776800" />
   <Workshop name="Improved Husks" id="2085783214" />
+  <Workshop name="NT Symbiote + Improved Husks Patch-post" id="3071670133" />
+  <Local name="All The Talent Trees + Unlock Parallel Talents Webuni edit" />
   <Workshop name="The Diver Job" id="2920304251" />
   <Workshop name="Acolyte Job" id="2870519815" />
   <Workshop name="Harlequin Job" id="2942994485" />
@@ -29,7 +33,6 @@
   <Workshop name="Technician Job" id="3005601677" />
   <Workshop name="Toxicologist Job" id="2993275947" />
   <Workshop name="Agriculturist Job" id="2946558743" />
-  <Local name="All The Talent Trees + Unlock Parallel Talents Webuni edit" />
   <Workshop name="Let Them All In" id="2805065898" />
   <Workshop name="NT Waterproof Cybernetics Edit" id="2924058266" />
   <Workshop name="Husk Mod Missions" id="2902332109" />
@@ -44,7 +47,7 @@
   <Workshop name="EK | Utility (Simple Tools Only)" id="2947134148" />
   <Workshop name="Genes+ Revived and Expanded" id="2799033770" />
   <Workshop name="Meaningful Upgrades (Fork)" id="2945425748" />
-  <Workshop name="Backpacks" id="2613901395" />
+  <Workshop name="Backpacks - No Encumbrance and Xeno-Backpack" id="3046517274" />
   <Workshop name="ADV Beacon Stations" id="2544952900" />
   <Workshop name="Beacons Extended" id="2389600483" />
   <Workshop name="More Beacons for Europa" id="2936649429" />
@@ -73,6 +76,6 @@
   <Workshop name="Zoom Key" id="2817020588" />
   <Workshop name="Disconnect Kill And Stun Remover" id="2658872348" />
   <Workshop name="Sort Container UI" id="2891181800" />
-  <Workshop name="Oxygen Reloader" id="2958095512" />
   <Workshop name="BetterHealthUI" id="2807158602" />
+  <Workshop name="Neurotrauma Tutorial map Mercy Hospital" id="2860450711" />
 </mods>
