@@ -1,21 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="Extreme">
+<mods name="RV.4">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Cs For Barotrauma" id="2795927223" />
   <Workshop name="Lua Linker" id="2852315967" />
   <Workshop name="Performance Fix" id="2701251094" />
   <Workshop name="DynamicEuropa" id="2532991202" />
-  <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
-  <Workshop name="Improved Husks" id="2085783214" />
-  <Workshop name="Husk Mod Missions" id="2902332109" />
-  <Workshop name="AbyssVeteran [RUS/ENG]" id="2486153708" />
-  <Workshop name="Forked EuropaWar" id="2925706584" />
   <Workshop name="Neurotrauma" id="2776270649" />
   <Workshop name="BetterFabricatorUI" id="2811300302" />
   <Workshop name="Enhanced Armaments" id="2764968387" />
   <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
-  <Workshop name="Real Sonar" id="2936760984" />
+  <Workshop name="Настоящий сонар" id="2936760984" />
   <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
   <Workshop name="All The Talent Trees + Unlock Parallel Talents" id="2913302583" />
   <Workshop name="BaroCraftables+" id="2764140582" />
@@ -29,6 +24,6 @@
   <Workshop name="Movable and Sellable Wrecks" id="2772926011" />
   <Workshop name="Real Sonar - All Diving Suits + Less VFX" id="2941383415" />
   <Workshop name="Storage Icons" id="2920200449" />
+  <Workshop name="Item IO Framework" id="2950383008" />
   <Workshop name="Disconnect Kill And Stun Remover" id="2658872348" />
-  <Workshop name="Privateer" id="2946159217" />
 </mods>
