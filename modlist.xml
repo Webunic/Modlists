@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="RV.6">
+<mods name="RV.7">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
-  <Workshop name="Cs For Barotrauma" id="2795927223" />
   <Workshop name="Modding Toolkit" id="2905375979" />
   <Workshop name="Lua Linker" id="2852315967" />
   <Workshop name="DynamicEuropa" id="2532991202" />
@@ -19,11 +18,13 @@
   <Workshop name="Backpacks" id="2613901395" />
   <Workshop name="ADV Beacon Stations" id="2544952900" />
   <Workshop name="Beacons Extended" id="2389600483" />
+  <Workshop name="More Beacons for Europa" id="2936649429" />
   <Workshop name="SIN Beacon Stations" id="2605405713" />
   <Workshop name="Ammo extended 2 (RUS/ENG/汉语)" id="2668119156" />
   <Workshop name="Movable and Sellable Wrecks" id="2772926011" />
   <Workshop name="Sellable Pirates" id="2810462005" />
   <Workshop name="Shipwrecks Extended" id="2095211492" />
+  <Workshop name="More Wrecks for Europa" id="2936642208" />
   <Workshop name="Real Sonar - All Diving Suits + Less VFX" id="2941383415" />
   <Workshop name="Item IO Framework" id="2950383008" />
   <Workshop name="Junction Box Extended" id="2955235860" />
@@ -31,15 +32,19 @@
   <Workshop name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" id="2799051561" />
   <Workshop name="Better Exosuit with Platform 外骨骼优化和置物架" id="2920285952" />
   <Workshop name="More Level Content - 1.0 Update" id="2814493175" />
+  <Workshop name="Neurotrauma in-game guide" id="2958760493" />
+  <Workshop name="Mystery's Powercore" id="2961464857" />
+  <Workshop name="Neko's Extra Components" id="2958067099" />
+  <Workshop name="BIG Crate" id="2962042778" />
   <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
+  <Workshop name="Cs For Barotrauma" id="2795927223" />
   <Workshop name="Performance Fix" id="2701251094" />
   <Workshop name="BetterFabricatorUI" id="2811300302" />
   <Workshop name="Storage Icons" id="2920200449" />
   <Workshop name="Zoom Key" id="2817020588" />
   <Workshop name="Disconnect Kill And Stun Remover" id="2658872348" />
-  <Workshop name="Hotkey Reload-Swap" id="2887170458" />
   <Workshop name="Sort Container UI" id="2891181800" />
   <Workshop name="Oxygen Reloader" id="2958095512" />
-  <Workshop name="Neurotrauma in-game guide" id="2958760493" />
   <Workshop name="BetterHealthUI" id="2807158602" />
+  <Local name="# Testing Space Barocra 1488" />
 </mods>
