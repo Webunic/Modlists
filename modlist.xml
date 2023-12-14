@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="RV.4">
+<mods name="RV.5">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Cs For Barotrauma" id="2795927223" />
@@ -25,5 +25,10 @@
   <Workshop name="Real Sonar - All Diving Suits + Less VFX" id="2941383415" />
   <Workshop name="Storage Icons" id="2920200449" />
   <Workshop name="Item IO Framework" id="2950383008" />
+  <Workshop name="Zoom Key" id="2817020588" />
+  <Workshop name="Junction Box Extended" id="2955235860" />
+  <Workshop name="Sprinkler System" id="2953688517" />
+  <Workshop name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" id="2799051561" />
   <Workshop name="Disconnect Kill And Stun Remover" id="2658872348" />
+  <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
 </mods>
