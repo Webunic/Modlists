@@ -1,82 +1,82 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="19.11.2023">
+<mods name="19.11.2023 2">
   <Vanilla />
-  <Workshop name="Lua For Barotrauma" id="2559634234" />
-  <Workshop name="Cs For Barotrauma" id="2795927223" />
-  <Workshop name="Modding Toolkit" id="2905375979" />
-  <Workshop name="Lua Linker" id="2852315967" />
-  <Workshop name="Multiplayer crew manager" id="2775613786" />
-  <Local name="Hazardous Junction Boxes" />
-  <Workshop name="Immersive Diving Gear" id="3074045632" />
-  <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
-  <Workshop name="Enhanced Armaments DynamicEuropa Patch" id="3036805935" />
-  <Workshop name="DynamicEuropa - Default Level Size Patch" id="2927140188" />
-  <Workshop name="DynamicEuropa" id="2532991202" />
-  <Workshop name="EA remove mask patch" id="3045702264" />
-  <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
-  <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
-  <Workshop name="Deconstructable ID Card for Neurotrauma" id="3074458432" />
-  <Workshop name="NT Symbiote + Improved Husks Patch-pre" id="3071669724" />
-  <Workshop name="NT Symbiote" id="3068776800" />
-  <Workshop name="Improved Husks" id="2085783214" />
-  <Workshop name="Neurotrauma" id="2776270649" />
-  <Workshop name="NT Symbiote + Improved Husks Patch-post" id="3071670133" />
-  <Local name="All The Talent Trees + Unlock Parallel Talents Webuni edit" />
-  <Local name="The Diver Job" />
-  <Local name="Acolyte Job" />
-  <Local name="Harlequin Job" />
-  <Local name="Separatist Job" />
-  <Workshop name="NT Surgery Plus" id="2790455798" />
-  <Local name="Occultist Job" />
-  <Local name="ClownOTrauma webuni" />
-  <Local name="Scavenger Job" />
-  <Local name="Admiral Job" />
-  <Local name="Smith Job" />
-  <Local name="Renegade Job" />
-  <Local name="Technician Job" />
-  <Local name="Toxicologist Job" />
-  <Local name="Agriculturist Job" />
-  <Workshop name="Let Them All In" id="2805065898" />
-  <Workshop name="NT Waterproof Cybernetics Edit" id="2924058266" />
-  <Workshop name="Husk Mod Missions" id="2902332109" />
-  <Workshop name="Enhanced Armaments" id="2764968387" />
-  <Workshop name="Immersive Diving Gear - Enhanced Armaments Compatibility Patch" id="3076164754" />
-  <Workshop name="More Unique Weapons (v1.1) [ENRU]" id="2900879567" />
-  <Workshop name="Real Sonar" id="2936760984" />
-  <Workshop name="Immersive Diving Gear - Real Sonar Compatibility Patch" id="3074073458" />
-  <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
-  <Local name="BaroCraftables+" />
-  <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
-  <Workshop name="EK | Utility (Simple Tools Only)" id="2947134148" />
-  <Workshop name="Genes+ Revived and Expanded" id="2799033770" />
-  <Workshop name="Meaningful Upgrades (Fork)" id="2945425748" />
-  <Workshop name="Backpacks - No Encumbrance and Xeno-Backpack" id="3046517274" />
-  <Workshop name="ADV Beacon Stations" id="2544952900" />
-  <Workshop name="Beacons Extended" id="2389600483" />
-  <Workshop name="More Beacons for Europa" id="2936649429" />
-  <Workshop name="SIN Beacon Stations" id="2605405713" />
-  <Workshop name="Ammo extended 2 (RUSENG汉语)" id="2668119156" />
-  <Workshop name="Movable and Sellable Wrecks" id="2772926011" />
-  <Workshop name="Sellable Pirates" id="2810462005" />
-  <Workshop name="Shipwrecks Extended" id="2095211492" />
-  <Workshop name="More Wrecks for Europa" id="2936642208" />
-  <Local name="Item IO Framework webuni" />
-  <Workshop name="Junction Box Extended" id="2955235860" />
-  <Workshop name="Sprinkler System" id="2953688517" />
-  <Workshop name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" id="2799051561" />
-  <Workshop name="Better Exosuit with Platform 外骨骼优化和置物架" id="2920285952" />
-  <Workshop name="More Level Content" id="2814493175" />
-  <Workshop name="Neurotrauma in-game guide" id="2958760493" />
-  <Workshop name="Mystery's Powercore" id="2961464857" />
-  <Workshop name="Neko's Extra Components" id="2958067099" />
-  <Workshop name="BIG Crate" id="2962042778" />
-  <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
-  <Workshop name="Neurotrauma Tutorial map Mercy Hospital" id="2860450711" />
-  <Workshop name="Performance Fix" id="2701251094" />
-  <Workshop name="BetterFabricatorUI" id="2811300302" />
-  <Workshop name="Storage Icons" id="2920200449" />
-  <Workshop name="Zoom Key" id="2817020588" />
-  <Workshop name="Disconnect Kill And Stun Remover" id="2658872348" />
-  <Workshop name="Sort Container UI" id="2891181800" />
-  <Workshop name="BetterHealthUI" id="2807158602" />
+  <Local name="Lua For Barotrauma" />
+  <Local name="Cs For Barotrauma" />
+  <Local name="Modding Toolkit" />
+  <Local name="Lua Linker" />
+  <Local name="Multiplayer crew manager" />
+  <Local name="Uni_Hazardous Junction Boxes" />
+  <Local name="Immersive Diving Gear" />
+  <Local name="BaroTraumatic Lite-ish" />
+  <Local name="Enhanced Armaments DynamicEuropa Patch" />
+  <Local name="DynamicEuropa - Default Level Size Patch" />
+  <Local name="DynamicEuropa" />
+  <Local name="EA remove mask patch" />
+  <Local name="Enhanced Armaments Neurotrauma Patch" />
+  <Local name="Real Sonar Medical Item Recipes Patch for Neurotrauma" />
+  <Local name="Deconstructable ID Card for Neurotrauma" />
+  <Local name="NT Symbiote + Improved Husks Patch-pre" />
+  <Local name="NT Symbiote" />
+  <Local name="Improved Husks" />
+  <Local name="Neurotrauma" />
+  <Local name="NT Symbiote + Improved Husks Patch-post" />
+  <Local name="Uni_All The Talent Trees + Unlock Parallel Talents Webuni edit" />
+  <Local name="Uni_The Diver Job" />
+  <Local name="Uni_Acolyte Job" />
+  <Local name="Uni_Harlequin Job" />
+  <Local name="Uni_Separatist Job" />
+  <Local name="NT Surgery Plus" />
+  <Local name="Uni_Occultist Job" />
+  <Local name="Uni_ClownOTrauma webuni" />
+  <Local name="Uni_Scavenger Job" />
+  <Local name="Uni_Admiral Job" />
+  <Local name="Uni_Smith Job" />
+  <Local name="Uni_Renegade Job" />
+  <Local name="Uni_Technician Job" />
+  <Local name="Uni_Toxicologist Job" />
+  <Local name="Uni_Agriculturist Job" />
+  <Local name="Let Them All In" />
+  <Local name="NT Waterproof Cybernetics Edit" />
+  <Local name="Husk Mod Missions" />
+  <Local name="Enhanced Armaments" />
+  <Local name="Immersive Diving Gear - Enhanced Armaments Compatibility Patch" />
+  <Local name="More Unique Weapons (v1.1) [ENRU]" />
+  <Local name="Real Sonar" />
+  <Local name="Immersive Diving Gear - Real Sonar Compatibility Patch" />
+  <Local name="Barotraumatic Creature Pack" />
+  <Local name="Uni_BaroCraftables+" />
+  <Local name="New Wrecks For Barotrauma (With sellable wrecks)" />
+  <Local name="EK | Utility (Simple Tools Only)" />
+  <Local name="Genes+ Revived and Expanded" />
+  <Local name="Meaningful Upgrades (Fork)" />
+  <Local name="Backpacks - No Encumbrance and Xeno-Backpack" />
+  <Local name="ADV Beacon Stations" />
+  <Local name="Beacons Extended" />
+  <Local name="More Beacons for Europa" />
+  <Local name="SIN Beacon Stations" />
+  <Local name="Ammo extended 2 (RUSENG汉语)" />
+  <Local name="Movable and Sellable Wrecks" />
+  <Local name="Sellable Pirates" />
+  <Local name="Shipwrecks Extended" />
+  <Local name="More Wrecks for Europa" />
+  <Local name="Uni_Item IO Framework webuni" />
+  <Local name="Junction Box Extended" />
+  <Local name="Sprinkler System" />
+  <Local name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" />
+  <Local name="Better Exosuit with Platform 外骨骼优化和置物架" />
+  <Local name="More Level Content" />
+  <Local name="Neurotrauma in-game guide" />
+  <Local name="Mystery's Powercore" />
+  <Local name="Neko's Extra Components" />
+  <Local name="BIG Crate" />
+  <Local name="Dont Open Debug Console On Errors" />
+  <Local name="Neurotrauma Tutorial map Mercy Hospital" />
+  <Local name="Performance Fix" />
+  <Local name="BetterFabricatorUI" />
+  <Local name="Storage Icons" />
+  <Local name="Zoom Key" />
+  <Local name="Disconnect Kill And Stun Remover" />
+  <Local name="Sort Container UI" />
+  <Local name="BetterHealthUI" />
 </mods>
