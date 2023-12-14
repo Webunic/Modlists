@@ -1,14 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="RV.8">
+<mods name="RV.9 test branch">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
+  <Workshop name="Cs For Barotrauma" id="2795927223" />
   <Workshop name="Modding Toolkit" id="2905375979" />
   <Workshop name="Lua Linker" id="2852315967" />
+  <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
   <Workshop name="DynamicEuropa" id="2532991202" />
   <Workshop name="Neurotrauma" id="2776270649" />
+  <Workshop name="Let Them All In" id="2805065898" />
+  <Workshop name="NT Waterproof Cybernetics Edit" id="2924058266" />
+  <Workshop name="Husk Mod Missions" id="2902332109" />
+  <Workshop name="WITHERING SOULS VIII (Functional Necrosis)" id="2251179004" />
   <Workshop name="Enhanced Armaments" id="2764968387" />
+  <Workshop name="Enhanced Armaments Barotraumatic Patch" id="2942219176" />
   <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
+  <Workshop name="More Unique Weapons (v1.1) [EN/RU]" id="2900879567" />
   <Workshop name="Настоящий сонар" id="2936760984" />
+  <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
+  <Workshop name="EuropaWar" id="2902324647" />
+  <Workshop name="EuropaWar_Vanilla" id="2903812829" />
   <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
   <Workshop name="All The Talent Trees + Unlock Parallel Talents" id="2913302583" />
   <Workshop name="BaroCraftables+" id="2764140582" />
@@ -37,7 +48,6 @@
   <Workshop name="Neko's Extra Components" id="2958067099" />
   <Workshop name="BIG Crate" id="2962042778" />
   <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
-  <Workshop name="Cs For Barotrauma" id="2795927223" />
   <Workshop name="Performance Fix" id="2701251094" />
   <Workshop name="BetterFabricatorUI" id="2811300302" />
   <Workshop name="Modular Backpack" id="2964144541" />
