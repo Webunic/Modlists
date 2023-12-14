@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="07.11.2023">
+<mods name="09.11.2023">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Cs For Barotrauma" id="2795927223" />
@@ -39,6 +39,7 @@
   <Workshop name="NT Waterproof Cybernetics Edit" id="2924058266" />
   <Workshop name="Husk Mod Missions" id="2902332109" />
   <Workshop name="Enhanced Armaments" id="2764968387" />
+  <Workshop name="Immersive Diving Gear - Enhanced Armaments Compatibility Patch" id="3076164754" />
   <Workshop name="More Unique Weapons (v1.1) [ENRU]" id="2900879567" />
   <Workshop name="Real Sonar" id="2936760984" />
   <Workshop name="Immersive Diving Gear - Real Sonar Compatibility Patch" id="3074073458" />
