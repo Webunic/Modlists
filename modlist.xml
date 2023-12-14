@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="R v. 2">
+<mods name="R. V 3">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Cs For Barotrauma" id="2795927223" />
@@ -7,6 +7,7 @@
   <Workshop name="Performance Fix" id="2701251094" />
   <Workshop name="DynamicEuropa" id="2532991202" />
   <Workshop name="Neurotrauma" id="2776270649" />
+  <Workshop name="BetterFabricatorUI" id="2811300302" />
   <Workshop name="Enhanced Armaments" id="2764968387" />
   <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
   <Workshop name="Real Sonar" id="2936760984" />
@@ -17,12 +18,10 @@
   <Workshop name="Genes+ Revived and Expanded" id="2799033770" />
   <Workshop name="Meaningful Upgrades (Fork)" id="2945425748" />
   <Workshop name="Backpacks" id="2613901395" />
-  <Workshop name="BetterFabricatorUI" id="2811300302" />
   <Workshop name="ADV Beacon Stations" id="2544952900" />
   <Workshop name="Beacons Extended" id="2389600483" />
   <Workshop name="Ammo extended 2 (RUS/ENG/汉语)" id="2668119156" />
   <Workshop name="Movable and Sellable Wrecks" id="2772926011" />
   <Workshop name="Real Sonar - All Diving Suits + Less VFX" id="2941383415" />
-  <Workshop name="Storage Icons" id="2920200449" />
   <Workshop name="Disconnect Kill And Stun Remover" id="2658872348" />
 </mods>
