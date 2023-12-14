@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="04.12.2023">
+<mods name="05.12.2023">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Modding Toolkit" id="2905375979" />
@@ -9,6 +9,7 @@
   <Workshop name="Immersive Diving Gear" id="3074045632" />
   <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
   <Workshop name="SOFA'S CREATURES" id="2834851130" />
+  <Workshop name="NEEDS - NT Compatibility" id="2930788862" />
   <Workshop name="NEEDS" id="2929084649" />
   <Workshop name="Hungry Europans - Enforced Extras" id="3029684523" />
   <Workshop name="Hungry Europans - Enforced" id="3018201543" />
@@ -17,8 +18,8 @@
   <Workshop name="DynamicEuropa - Default Level Size Patch" id="2927140188" />
   <Workshop name="DynamicEuropa" id="2532991202" />
   <Workshop name="EA remove mask patch" id="3045702264" />
-  <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
   <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
+  <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
   <Workshop name="Deconstructable ID Card for Neurotrauma" id="3074458432" />
   <Workshop name="NT Symbiote + Improved Husks Patch-pre" id="3071669724" />
   <Workshop name="NT Symbiote" id="3068776800" />
@@ -41,49 +42,49 @@
   <Local name="Uni_Technician Job" />
   <Local name="Uni_Toxicologist Job" />
   <Local name="Uni_Agriculturist Job" />
-  <Local name="Let Them All In" />
-  <Local name="NT Waterproof Cybernetics Edit" />
-  <Local name="Husk Mod Missions" />
+  <Workshop name="Let Them All In" id="2805065898" />
+  <Workshop name="Cybernetics Improved" id="2963474291" />
+  <Workshop name="Husk Mod Missions" id="2902332109" />
   <Workshop name="Enhanced Armaments" id="2764968387" />
-  <Local name="Immersive Diving Gear - Enhanced Armaments Compatibility Patch" />
-  <Local name="More Unique Weapons (v1.1) [ENRU]" />
-  <Local name="Real Sonar" />
-  <Local name="Immersive Diving Gear - Real Sonar Compatibility Patch" />
+  <Workshop name="Immersive Diving Gear - Enhanced Armaments Compatibility Patch" id="3076164754" />
+  <Workshop name="More Unique Weapons (v1.1) [ENRU]" id="2900879567" />
+  <Workshop name="Real Sonar" id="2936760984" />
+  <Workshop name="Immersive Diving Gear - Real Sonar Compatibility Patch" id="3074073458" />
   <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
   <Workshop name="EuropaWar_Vanilla" id="2903812829" />
   <Workshop name="EuropaWar" id="2902324647" />
   <Local name="Uni_BaroCraftables+" />
-  <Local name="New Wrecks For Barotrauma (With sellable wrecks)" />
-  <Local name="EK | Utility (Simple Tools Only)" />
-  <Local name="Genes+ Revived and Expanded" />
-  <Local name="Meaningful Upgrades (Fork)" />
-  <Local name="Backpacks - No Encumbrance and Xeno-Backpack" />
-  <Local name="More Level Content" />
-  <Local name="ADV Beacon Stations" />
-  <Local name="Beacons Extended" />
-  <Local name="More Beacons for Europa" />
-  <Local name="SIN Beacon Stations" />
-  <Local name="Ammo extended 2 (RUSENG汉语)" />
-  <Local name="Movable and Sellable Wrecks" />
-  <Local name="Sellable Pirates" />
-  <Local name="Shipwrecks Extended" />
-  <Local name="More Wrecks for Europa" />
+  <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
+  <Workshop name="EK | Utility (Simple Tools Only)" id="2947134148" />
+  <Workshop name="Genes+ Revived and Expanded" id="2799033770" />
+  <Workshop name="Meaningful Upgrades (Fork)" id="2945425748" />
+  <Workshop name="Backpacks - No Encumbrance and Xeno-Backpack" id="3046517274" />
+  <Workshop name="More Level Content" id="2814493175" />
+  <Workshop name="ADV Beacon Stations" id="2544952900" />
+  <Workshop name="Beacons Extended" id="2389600483" />
+  <Workshop name="More Beacons for Europa" id="2936649429" />
+  <Workshop name="SIN Beacon Stations" id="2605405713" />
+  <Workshop name="Ammo extended 2 (RUSENG汉语)" id="2668119156" />
+  <Workshop name="Movable and Sellable Wrecks" id="2772926011" />
+  <Workshop name="Sellable Pirates" id="2810462005" />
+  <Workshop name="Shipwrecks Extended" id="2095211492" />
+  <Workshop name="More Wrecks for Europa" id="2936642208" />
   <Local name="Uni_Item IO Framework webuni" />
-  <Local name="Junction Box Extended" />
-  <Local name="Sprinkler System" />
-  <Local name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" />
-  <Local name="Better Exosuit with Platform 外骨骼优化和置物架" />
-  <Local name="Neurotrauma in-game guide" />
-  <Local name="Mystery's Powercore" />
-  <Local name="Neko's Extra Components" />
-  <Local name="BIG Crate" />
-  <Local name="Dont Open Debug Console On Errors" />
-  <Local name="Neurotrauma Tutorial map Mercy Hospital" />
-  <Local name="Cs For Barotrauma" />
-  <Local name="Performance Fix" />
-  <Local name="BetterFabricatorUI" />
-  <Local name="Storage Icons" />
-  <Local name="Zoom Key" />
-  <Local name="Sort Container UI" />
-  <Local name="BetterHealthUI" />
+  <Workshop name="Sprinkler System" id="2953688517" />
+  <Workshop name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" id="2799051561" />
+  <Workshop name="Better Exosuit with Platform 外骨骼优化和置物架" id="2920285952" />
+  <Workshop name="Neurotrauma in-game guide" id="2958760493" />
+  <Workshop name="Mystery's Powercore" id="2961464857" />
+  <Workshop name="Neko's Extra Components" id="2958067099" />
+  <Workshop name="BIG Crate" id="2962042778" />
+  <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
+  <Workshop name="Neurotrauma Tutorial map Mercy Hospital" id="2860450711" />
+  <Workshop name="Complete Global Darkness" id="2874526487" />
+  <Workshop name="Cs For Barotrauma" id="2795927223" />
+  <Workshop name="Performance Fix" id="2701251094" />
+  <Workshop name="BetterFabricatorUI" id="2811300302" />
+  <Workshop name="Storage Icons" id="2920200449" />
+  <Workshop name="Zoom Key" id="2817020588" />
+  <Workshop name="Sort Container UI" id="2891181800" />
+  <Workshop name="BetterHealthUI" id="2807158602" />
 </mods>
