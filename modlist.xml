@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="TV.1">
+<mods name="RV.8">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Modding Toolkit" id="2905375979" />
   <Workshop name="Lua Linker" id="2852315967" />
-  <Workshop name="BaroTraumatic Lite-ish" id="2929893144" />
   <Workshop name="DynamicEuropa" id="2532991202" />
   <Workshop name="Neurotrauma" id="2776270649" />
-  <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
-  <Workshop name="Improved Husks" id="2085783214" />
-  <Workshop name="Husk Mod Missions" id="2902332109" />
-  <Workshop name="WITHERING SOULS VIII (Functional Necrosis)" id="2251179004" />
-  <Workshop name="EuropaWar_Vanilla" id="2903812829" />
   <Workshop name="Enhanced Armaments" id="2764968387" />
   <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
   <Workshop name="Настоящий сонар" id="2936760984" />
@@ -46,6 +40,7 @@
   <Workshop name="Cs For Barotrauma" id="2795927223" />
   <Workshop name="Performance Fix" id="2701251094" />
   <Workshop name="BetterFabricatorUI" id="2811300302" />
+  <Workshop name="Modular Backpack" id="2964144541" />
   <Workshop name="Storage Icons" id="2920200449" />
   <Workshop name="Zoom Key" id="2817020588" />
   <Workshop name="Disconnect Kill And Stun Remover" id="2658872348" />
