@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="05.12.2023">
+<mods name="05.12.2023 3">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Modding Toolkit" id="2905375979" />
+  <Workshop name="Cs For Barotrauma" id="2795927223" />
+  <Workshop name="Performance Fix" id="2701251094" />
   <Workshop name="Lua Linker" id="2852315967" />
   <Workshop name="Multiplayer crew manager" id="2775613786" />
   <Workshop name="Hazardous Junction Boxes" id="3090918505" />
@@ -18,14 +20,14 @@
   <Workshop name="DynamicEuropa - Default Level Size Patch" id="2927140188" />
   <Workshop name="DynamicEuropa" id="2532991202" />
   <Workshop name="EA remove mask patch" id="3045702264" />
-  <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
   <Workshop name="Enhanced Armaments Neurotrauma Patch" id="2807556435" />
   <Workshop name="Deconstructable ID Card for Neurotrauma" id="3074458432" />
+  <Workshop name="Real Sonar Medical Item Recipes Patch for Neurotrauma" id="2965750397" />
   <Workshop name="NT Symbiote + Improved Husks Patch-pre" id="3071669724" />
   <Workshop name="NT Symbiote" id="3068776800" />
-  <Local name="Improved Husks" />
+  <Workshop name="Improved Husks" id="2085783214" />
   <Workshop name="NeuroEyes [fix]" id="2809712173" />
-  <Local name="Neurotrauma" />
+  <Workshop name="Neurotrauma" id="2776270649" />
   <Workshop name="NT Symbiote + Improved Husks Patch-post" id="3071670133" />
   <Local name="Uni_All The Talent Trees + Unlock Parallel Talents Webuni edit" />
   <Local name="Uni_The Diver Job" />
@@ -80,11 +82,8 @@
   <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
   <Workshop name="Neurotrauma Tutorial map Mercy Hospital" id="2860450711" />
   <Workshop name="Complete Global Darkness" id="2874526487" />
-  <Workshop name="Cs For Barotrauma" id="2795927223" />
-  <Workshop name="Performance Fix" id="2701251094" />
   <Workshop name="BetterFabricatorUI" id="2811300302" />
   <Workshop name="Storage Icons" id="2920200449" />
   <Workshop name="Zoom Key" id="2817020588" />
-  <Workshop name="Sort Container UI" id="2891181800" />
   <Workshop name="BetterHealthUI" id="2807158602" />
 </mods>
