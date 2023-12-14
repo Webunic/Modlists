@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="27.11.2023">
+<mods name="03.12.2023">
   <Vanilla />
   <Local name="Lua For Barotrauma" />
   <Local name="Modding Toolkit" />
   <Local name="Lua Linker" />
   <Local name="Multiplayer crew manager" />
-  <Local name="Hazardous Junction Boxes" />
   <Local name="Immersive Diving Gear" />
   <Local name="BaroTraumatic Lite-ish" />
   <Local name="Enhanced Armaments DynamicEuropa Patch" />
