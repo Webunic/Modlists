@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mods name="1">
+  <Vanilla />
+  <Workshop name="BaroTraumatic Explorer" id="2591186109" />
+  <Workshop name="Improved Husks" id="2085783214" />
+  <Workshop name="Barotraumatic Extended Monsters Fixes" id="2578618673" />
+  <Workshop name="Barotraumatic Undersea Horrors Fixes" id="2771225124" />
+  <Workshop name="Barotraumatic Monster Pack Test fixes" id="2578623106" />
+  <Workshop name="Barotraumatic Other Creature fixes" id="2578622743" />
+  <Workshop name="Barotraumatic Vanilla Creature Overhauls" id="2666048559" />
+  <Workshop name="Barotraumatic Survivator Fixes" id="2578621091" />
+  <Workshop name="Barotraumatic New Creatures" id="2726528805" />
+  <Workshop name="Barotraumatic Xanmonsters1 Fixes" id="2578603516" />
+  <Workshop name="Barotraumatic Xanmonsters2 Fixes" id="2578617048" />
+  <Workshop name="ADV Beacon Stations" id="2544952900" />
+  <Workshop name="Stations from beyond" id="2585543390" />
+  <Workshop name="Backpacks - No Encumbrance" id="2805978627" />
+  <Workshop name="BaroCraftables+" id="2764140582" />
+  <Workshop name="Neurotrauma" id="2776270649" />
+  <Workshop name="Neurotrauma Cybernetics" id="2788543375" />
+  <Workshop name="Lua For Barotrauma" id="2559634234" />
+  <Workshop name="Shipwrecks Extended" id="2095211492" />
+  <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
+  <Workshop name="Performance Fix" id="2701251094" />
+  <Workshop name="Genes+ Revived and Expanded (EN,CN)" id="2799033770" />
+  <Workshop name="Meaningful Upgrades" id="2183524355" />
+  <Workshop name="EK | Armory" id="1769403760" />
+  <Workshop name="EK | Gunnery" id="2390126010" />
+  <Workshop name="EK | Utility" id="1946765892" />
+  <Workshop name="All The Talent Trees" id="2691181887" />
+  <Workshop name="Latveria" id="2672400667" />
+  <Workshop name="Сегрегатор" id="2688697440" />
+  <Workshop name="DynamicEuropa" id="2532991202" />
+  <Workshop name="[JADE]Nautilus鹦鹉螺" id="2806254601" />
+  <Local name="[JADE]Nautilus fixed" />
+  <Local name="[JADE]Nautilus fixed v3" />
+  <Local name="[JADE]Nautilus fixed v4" />
+  <Local name="[JADE]Nautilus fixed v5" />
+</mods>
