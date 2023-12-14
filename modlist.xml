@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="20.11.2023">
+<mods name="27.11.2023">
   <Vanilla />
-  <Workshop name="Lua For Barotrauma" id="2559634234" />
+  <Local name="Lua For Barotrauma" />
   <Local name="Modding Toolkit" />
   <Local name="Lua Linker" />
   <Local name="Multiplayer crew manager" />
-  <Local name="Uni_Hazardous Junction Boxes" />
+  <Local name="Hazardous Junction Boxes" />
   <Local name="Immersive Diving Gear" />
   <Local name="BaroTraumatic Lite-ish" />
   <Local name="Enhanced Armaments DynamicEuropa Patch" />
@@ -65,7 +65,7 @@
   <Local name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" />
   <Local name="Better Exosuit with Platform 外骨骼优化和置物架" />
   <Local name="More Level Content" />
-  <Workshop name="Neurotrauma in-game guide" id="2958760493" />
+  <Local name="Neurotrauma in-game guide" />
   <Local name="Mystery's Powercore" />
   <Local name="Neko's Extra Components" />
   <Local name="BIG Crate" />
@@ -76,7 +76,6 @@
   <Local name="BetterFabricatorUI" />
   <Local name="Storage Icons" />
   <Local name="Zoom Key" />
-  <Local name="Disconnect Kill And Stun Remover" />
   <Local name="Sort Container UI" />
   <Local name="BetterHealthUI" />
 </mods>
