@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="10.12.2023">
+<mods name="13.12.2023">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Modding Toolkit" id="2905375979" />
@@ -26,24 +26,25 @@
   <Workshop name="NT Symbiote + Improved Husks Patch-pre" id="3071669724" />
   <Workshop name="NT Symbiote" id="3068776800" />
   <Workshop name="Improved Husks" id="2085783214" />
-  <Local name="NT NeuroEyes [fix] fork" />
+  <Workshop name="NT NeuroEyes [fix] fork" id="3112613427" />
   <Workshop name="Neurotrauma" id="2776270649" />
   <Workshop name="NT Symbiote + Improved Husks Patch-post" id="3071670133" />
-  <Local name="Uni_All The Talent Trees + Unlock Parallel Talents Webuni edit" />
-  <Local name="Uni_The Diver Job" />
-  <Local name="Uni_Acolyte Job" />
-  <Local name="Uni_Harlequin Job" />
-  <Local name="Uni_Separatist Job" />
-  <Local name="NT Surgery Plus" />
-  <Local name="Uni_Occultist Job" />
-  <Local name="Uni_ClownOTrauma webuni" />
-  <Local name="Uni_Scavenger Job" />
-  <Local name="Uni_Admiral Job" />
-  <Local name="Uni_Smith Job" />
-  <Local name="Uni_Renegade Job" />
-  <Local name="Uni_Technician Job" />
-  <Local name="Uni_Toxicologist Job" />
-  <Local name="Uni_Agriculturist Job" />
+  <Workshop name="All The Talent Trees + Unlock Parallel Talents MORE jobs" id="3112674904" />
+  <Workshop name="The Diver Job" id="2920304251" />
+  <Workshop name="Acolyte Job" id="2870519815" />
+  <Workshop name="Harlequin Job" id="2942994485" />
+  <Workshop name="Separatist Job" id="3012196012" />
+  <Workshop name="NT Surgery Plus" id="2790455798" />
+  <Workshop name="Occultist Job" id="2946779482" />
+  <Workshop name="ClownOTrauma (missions temp fix)" id="3112637029" />
+  <Workshop name="ClownOTrauma" id="2861491326" />
+  <Workshop name="Scavenger Job" id="2921079225" />
+  <Workshop name="Admiral Job" id="2955612327" />
+  <Workshop name="Smith Job" id="3004692548" />
+  <Workshop name="Renegade Job" id="2951046791" />
+  <Workshop name="Technician Job" id="3005601677" />
+  <Workshop name="Toxicologist Job" id="2993275947" />
+  <Workshop name="Agriculturist Job" id="2946558743" />
   <Workshop name="Let Them All In" id="2805065898" />
   <Workshop name="Cybernetics Improved" id="2963474291" />
   <Workshop name="Husk Mod Missions" id="2902332109" />
@@ -55,7 +56,9 @@
   <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
   <Workshop name="EuropaWar_Vanilla" id="2903812829" />
   <Workshop name="EuropaWar" id="2902324647" />
-  <Local name="Uni_BaroCraftables+" />
+  <Workshop name="BaroCraftables+ old cabinets extended" id="3112600618" />
+  <Workshop name="BaroCraftables+" id="2764140582" />
+  <Workshop name="Item IO Framework Temp (Fixed) Fork" id="3112593806" />
   <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
   <Workshop name="EK | Utility (Simple Tools Only)" id="2947134148" />
   <Workshop name="Genes+ Revived and Expanded" id="2799033770" />
@@ -71,7 +74,6 @@
   <Workshop name="Sellable Pirates" id="2810462005" />
   <Workshop name="Shipwrecks Extended" id="2095211492" />
   <Workshop name="More Wrecks for Europa" id="2936642208" />
-  <Local name="Uni_Item IO Framework webuni" />
   <Workshop name="Sprinkler System" id="2953688517" />
   <Workshop name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" id="2799051561" />
   <Workshop name="Better Exosuit with Platform 外骨骼优化和置物架" id="2920285952" />
